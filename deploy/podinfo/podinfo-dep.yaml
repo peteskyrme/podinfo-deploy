@@ -9,6 +9,7 @@ metadata:
     flux.weave.works/locked: 'true'
     flux.weave.works/locked_msg: '"Performing risky op"'
     flux.weave.works/locked_user: Ilya Dmitrichenko <ilya@weave.works>
+    flux.weave.works/automated: 'true'
 spec:
   replicas: 4
   selector:
