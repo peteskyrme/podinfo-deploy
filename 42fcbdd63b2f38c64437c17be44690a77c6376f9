@@ -1,0 +1,1 @@
+{"jobID":"093e4e3b-c8dd-96c4-719e-2abe277ceb1a","spec":{"type":"policy","cause":{"Message":"","User":"Pete Skyrme \u003cpeteskyrme2@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
